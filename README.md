@@ -25,7 +25,7 @@ To run this notebook, ensure that you have the following dependencies installed:
 Make sure to set up your environment with the required dependencies before running the notebook. You can install the Langchain library using pip:
 
 ```bash
-pip install langchain
+pip install langchain openai langchain-openai python-dotenv 
 ```
 
 Additionally, you will need to set up your OpenAI API key as an environment variable or provide it directly in the notebook.
