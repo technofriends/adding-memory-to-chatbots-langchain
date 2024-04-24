@@ -2,6 +2,8 @@
 
 This Python notebook demonstrates how to add memory capabilities to chatbots using the Langchain library and OpenAI's language models. It covers various memory modules provided by Langchain, including `ChatMessageHistory`, `ConversationBufferMemory`, and `ConversationSummaryMemory`. By following along with this notebook, you will learn how to enhance your chatbots with memory, enabling them to provide more coherent and contextually relevant responses.
 
+You can also go through the video tutorial on which this notebook is based at : https://youtu.be/2nWssLfXLZE
+
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
 2. [Notebook Overview](#notebook-overview)
